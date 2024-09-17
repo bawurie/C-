@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1547381562 source:e:\c++\calc\expressionparser.cpp
+	"ExpressionParser.h"
+
+1547381589 e:\c++\calc\expressionparser.h
+	<algorithm>
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<fstream>
+	<iterator>
+	<queue>
+	<stack>
+	<sstream>
+	<locale>
+	<stdlib.h>
+	<math.h>
+
+1547404747 source:e:\c++\calc\main.cpp
+	"ExpressionParser.h"
+	<assert.h>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<map>
+	<cmath>
+	<string>
+	<algorithm>
+	<fstream>
+	<sstream>
+
+1547381564 source:c:\users\user\desktop\calc\expressionparser.cpp
+	"ExpressionParser.h"
+
+1547381590 c:\users\user\desktop\calc\expressionparser.h
+	<algorithm>
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<fstream>
+	<iterator>
+	<queue>
+	<stack>
+	<sstream>
+	<locale>
+	<stdlib.h>
+	<math.h>
+
+1547404748 source:c:\users\user\desktop\calc\main.cpp
+	"ExpressionParser.h"
+	<assert.h>
+	<sstream>
+	<iostream>
+	<algorithm>
+	<cstdlib>
+	<map>
+	<cmath>
+	<string>
+	<algorithm>
+	<fstream>
+	<sstream>
+
